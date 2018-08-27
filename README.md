@@ -72,6 +72,16 @@
 
 ## 프로젝트 이력
 
+### 플레이키보드 PlayKeyboard (비트바이트)
+<img src="https://lh3.googleusercontent.com/n0RZ8WVAZ20uXJ5qagNJJkc1yq3jbM8rBSKHyQvkGL7HsTQtLY8BONog2ngYbI-NMss=s180-rw" width="80" height="80"/>
+
+- 소개: 약 8만명이 사용하는 안드로이드 3rd-party 키보드 어플리케이션입니다.<br>키보드 배경에서 입력 단어에 따라 반응하는 라이브테마, 상용구, 클립보드, 이모지 등을 지원합니다. 
+- 기간: 2018.03 ~ 2018.05
+- 역할: 어플리케이션 리팩토링 (100%), 키보드 신규기능 개발, 이슈 모니터링
+- 관련기술: Kotlin, DataBinding, Glide, Retrofit, Firebase Analytics, Typekit, Anko 
+- 자세한 설명은 [비트바이트 로켓펀치](https://www.rocketpunch.com/companies/bitbyte)에 있습니다.
+- [Play 스토어](https://play.google.com/store/apps/details?id=kr.bitbyte.playkeyboard)에서 확인하실 수 있습니다.
+
 ### 조이패스 JoyPass (유니언플레이스, 외주)
 - 소개: Joyland 카페 멤버 관리 & 영어학원 형식의 튜터링 서비스
 - 기간: 2018.06 ~ 작업중
@@ -83,16 +93,6 @@
 - 기간: 2018.04 ~ 작업중
 - 역할: 사용자용 Android Application 개발, API 설계
 - 관련 기술: Kotlin, DataBinding, Glide, Animation, Iamport
-
-### 플레이키보드 PlayKeyboard (비트바이트)
-<img src="https://lh3.googleusercontent.com/n0RZ8WVAZ20uXJ5qagNJJkc1yq3jbM8rBSKHyQvkGL7HsTQtLY8BONog2ngYbI-NMss=s180-rw" width="80" height="80"/>
-
-- 소개: 약 8만명이 사용하는 안드로이드 3rd-party 키보드 어플리케이션입니다.<br>키보드 배경에서 입력 단어에 따라 반응하는 라이브테마, 상용구, 클립보드, 이모지 등을 지원합니다. 
-- 기간: 2018.03 ~ 2018.05
-- 역할: 어플리케이션 리팩토링 (100%), 키보드 신규기능 개발, 이슈 모니터링
-- 관련기술: Kotlin, DataBinding, Glide, Retrofit, Firebase Analytics, Typekit, Anko 
-- 자세한 설명은 [비트바이트 로켓펀치](https://www.rocketpunch.com/companies/bitbyte)에 있습니다.
-- [Play 스토어](https://play.google.com/store/apps/details?id=kr.bitbyte.playkeyboard)에서 확인하실 수 있습니다.
 
 ### 세이푸드 Safood (팀 프로젝트, 2016 삼성 주니어 소프트웨어 창작대회 고등부 본선진출)
 - 소개 : 식품 일부 성분에 알레르기를 가지고 있는 환자, 혹은 특정 성분의 음식을 먹지 못하는 종교인을 위한 식품첨가물 필터링 어플리케이션입니다.<br>
