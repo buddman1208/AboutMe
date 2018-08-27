@@ -1,6 +1,6 @@
 # AboutMe
 ## 소개
-![프로필이미지](https://github.com/buddman1208/AboutMe/raw/master/images/profile.jpeg)
+![프로필이미지](https://github.com/buddman1208/AboutMe/blob/master/aboutme_profile.png)
 - 이름: 오준석
 - 군필여부: 복무 전 (4급 사회복무요원, 병역특례 희망)
 
