@@ -14,9 +14,9 @@
 - RocketPunch: [rocketpunch.com/@buddman](https://rocketpunch.com/@buddman)
 
 ## 회사경력
-- 비트바이트 (2018.03 ~ 2018.05)
-- 프리랜서 (2018.05 ~ 2018.09)
-- freeWheelin (2018.10 ~
+- [BITBYTE](https://www.rocketpunch.com/companies/bitbyte) Android Developer (2018.03 ~ 2018.05)
+- Freelancer (2018.05 ~ 2018.09)
+- [freeWheelin](https://www.rocketpunch.com/companies/freewheelin) Android Developer (2018.10 ~ )
 
 ## 단체경력
 - 선린인터넷고등학교 IT영재교육원 멘토단 대표 (2017 ~ 2017)
@@ -61,6 +61,7 @@
 - 삼성 주니어 소프트웨어 창작대회 고등부 우수상
 - 2017 국민대학교 해커톤 두리톤 두리상 (1등상)
 - 제 2회 대한민국 SW융합 해카톤대회 우수상 (경북도지사상)
+- 제 2회 하이톤:졸업 전체분야 수석졸업 (1등상)
 - SK Smarteen App+ Challenge 생활부문 장려상
 - 제 1회 강원도 공공데이터 이용 창업 앱 개발 공모전 청소년부 최우수상 
 - 제 51회 기능경기대회 앱 공모전 장려상
