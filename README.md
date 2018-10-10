@@ -6,8 +6,7 @@
 - 이름: 오준석
 - 군필여부: 복무 전 (4급 사회복무요원, 병역특례 희망)
 
-항상 끊임없는 팀원과의 소통을 통해 완벽한 서비스를 만들기 위해 노력하는 개발자, 오준석입니다.
-수학 에듀테크 기업인 [freeWheelin](https://www.rocketpunch.com/companies/freewheelin)에서 안드로이드 개발자로 재직중입니다.
+항상 끊임없는 팀원과의 소통을 통해 완벽한 서비스를 만들기 위해 노력하는 개발자, 오준석입니다.<br>수학 에듀테크 기업인 [freeWheelin](https://www.rocketpunch.com/companies/freewheelin)에서 안드로이드 개발자로 재직하고 있습니다.
 
 - 취미: 영화 / 드라마 감상, **해커톤**, **각코 (각자코딩)**, 여행
 - Email: buddman1208@gmail.com
