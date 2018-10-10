@@ -7,6 +7,7 @@
 - 군필여부: 복무 전 (4급 사회복무요원, 병역특례 희망)
 
 항상 끊임없는 팀원과의 소통을 통해 완벽한 서비스를 만들기 위해 노력하는 개발자, 오준석입니다.
+수학 에듀테크 기업인 [freeWheelin](https://www.rocketpunch.com/companies/freewheelin)에서 안드로이드 개발자로 재직중입니다.
 
 - 취미: 영화 / 드라마 감상, **해커톤**, **각코 (각자코딩)**, 여행
 - Email: buddman1208@gmail.com
@@ -47,12 +48,12 @@
 
 ### TODO
 끊임없이 변화하는 개발 트렌드에 발맞추기 위해 현재 다음과 같은 항목들을 익히고 있습니다.
+- RxJava
 - Android MVP / MVVM Design Pattern
-- ECMAScript 2018
 
 다음과 같은 항목들을 익힐 예정입니다.
 - Android Testcode
-- RxJava
+- ECMAScript 2018
 
 ## 수상 이력
 - SK Smarteen App Challenge 생활부문 대상 (산업통상자원부 장관상)
@@ -75,6 +76,15 @@
 **... 외 다수**
 
 ## 프로젝트 이력
+
+### 매쓰플랫 mathFLAT (프리윌린)
+<img src="https://lh3.googleusercontent.com/_dPc3-ohgis7TynoFzues5lGd2gdldM5N9gb4yd3Pmj7ws6WzELKw4Ao-cxUKKkqCNQ=s180-rw" width="80" height="80"/>
+
+- 소개 : 수학 교육과 학원 관리 전반에 대한 스마트 솔루션 시스템을 제공하는 수학문제은행 서비스입니다. 
+- 기간 : 2018.10 ~ (진행 중)
+- 역할 : 선생님용 어플리케이션 유지보수, 신규기능 개발 (위젯 등)
+- 관련기술 : Java, RxJava, Retrofit, Etc..
+- 자세한 설명은 [프리윌린 로켓펀치](https://www.rocketpunch.com/companies/freewheelin)에 있습니다.
 
 ### 플레이키보드 PlayKeyboard (비트바이트)
 <img src="https://lh3.googleusercontent.com/n0RZ8WVAZ20uXJ5qagNJJkc1yq3jbM8rBSKHyQvkGL7HsTQtLY8BONog2ngYbI-NMss=s180-rw" width="80" height="80"/>
