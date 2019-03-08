@@ -16,7 +16,7 @@
 ## 회사경력
 - [BITBYTE](https://www.rocketpunch.com/companies/bitbyte) Android Developer (2018.03 ~ 2018.05)
 - Freelancer (2018.05 ~ 2018.09)
-- [freeWheelin](https://www.rocketpunch.com/companies/freewheelin) Android Developer (2018.10 ~ )
+- [freeWheelin](https://www.rocketpunch.com/companies/freewheelin) Software Engineer (2018.10 ~ )
 
 ## 단체경력
 - 선린인터넷고등학교 IT영재교육원 멘토단 대표 (2017 ~ 2017)
@@ -29,30 +29,27 @@
 
 ## 사용 기술
 ### Android
-- Java, Kotlin
-- DataBinding
-- Realm Database
+- Kotlin, Java 
+- RxJava, RxKotlin, Kotlin Coroutines
+- DataBinding, Realm Database
 - 기타 : Glide, LastAdapter, Retrofit, Firebase, BluetoothSPP, Bluetooth Beacon, Facebook/Twitter SNS, Iamport
 
 ### Server
+- PHP
 - Node.js
 - Express
-- MongoDB Database
+- MySQL / MongoDB
 
 ### Process
 - 모니터링 - Fabric / Firebase Analytics
 - 커뮤니케이션 - Slack
-- 이슈관리 - Github / Jira(애자일/스프린트) / Trello
+- 이슈관리 - Github / Jira(애자일/스프린트) / Asana / Trello
 - 버전관리 - Github, Bitbucket
 
 ### TODO
-끊임없이 변화하는 개발 트렌드에 발맞추기 위해 현재 다음과 같은 항목들을 익히고 있습니다.
-- RxJava
-- Android MVP / MVVM Design Pattern
-
-다음과 같은 항목들을 익힐 예정입니다.
+끊임없이 변화하는 개발 트렌드에 발맞추기 위해 현재 다음과 같은 항목들을 공부하고 있습니다.
+- Android Design Pattern, TestCode
 - Android Testcode
-- ECMAScript 2018
 
 ## 수상 이력
 - SK Smarteen App Challenge 생활부문 대상 (산업통상자원부 장관상)
@@ -76,17 +73,19 @@
 
 ## 프로젝트 이력
 
-### 매쓰플랫 mathFLAT (프리윌린)
-<img src="https://lh3.googleusercontent.com/_dPc3-ohgis7TynoFzues5lGd2gdldM5N9gb4yd3Pmj7ws6WzELKw4Ao-cxUKKkqCNQ=s180-rw" width="80" height="80"/>
+### 매쓰플랫 mathFLAT (프리윌린) 
+#### 안드로이드 어플리케이션 및 백엔드 개발
+<img src="https://avatars0.githubusercontent.com/u/38304554?s=200&v=4" width="60" height="60"/>
 
-- 소개 : 수학 교육과 학원 관리 전반에 대한 스마트 솔루션 시스템을 제공하는 수학문제은행 서비스입니다. 
+- 소개 : 수학 교육과 학원 관리 전반에 대한 스마트 솔루션 시스템을 제공하는 수학문제은행 서비스입니다. 맞춤 학습지와 자체 교재 제작, 오답 관리, 빅데이터 기술을 활용한 Report 생성, 학원 전용 App까지 제공하고 있습니다.
 - 기간 : 2018.10 ~ (진행 중)
-- 역할 : 선생님용 어플리케이션 유지보수, 신규기능 개발 (위젯 등)
-- 관련기술 : Java, RxJava, Retrofit, Etc..
+- 직무 : '매쓰플랫 선생님', '매쓰플랫 학부모 / 학생용', '매쓰플랫 출석앱' 유지보수 및 신규기능 개발, 버전관리 및 배포
+- 관련기술 : Kotlin, Java, RxJava, Retrofit, Node.js, PHP, Spring, Etc..
 - 자세한 설명은 [프리윌린 로켓펀치](https://www.rocketpunch.com/companies/freewheelin)에 있습니다.
 
 ### 플레이키보드 PlayKeyboard (비트바이트)
-<img src="https://lh3.googleusercontent.com/n0RZ8WVAZ20uXJ5qagNJJkc1yq3jbM8rBSKHyQvkGL7HsTQtLY8BONog2ngYbI-NMss=s180-rw" width="80" height="80"/>
+#### 안드로이드 어플리케이션 및 백엔드 개발, 고객관리 및 CS
+<img src="https://lh3.googleusercontent.com/n0RZ8WVAZ20uXJ5qagNJJkc1yq3jbM8rBSKHyQvkGL7HsTQtLY8BONog2ngYbI-NMss=s180-rw" width="60" height="60"/>
 
 - 소개: 약 8만명이 사용하는 안드로이드 3rd-party 키보드 어플리케이션입니다.<br>키보드 배경에서 입력 단어에 따라 반응하는 라이브테마, 상용구, 클립보드, 이모지 등을 지원합니다. 
 - 기간: 2018.03 ~ 2018.05
@@ -95,9 +94,9 @@
 - 자세한 설명은 [비트바이트 로켓펀치](https://www.rocketpunch.com/companies/bitbyte)에 있습니다.
 - [Play 스토어](https://play.google.com/store/apps/details?id=kr.bitbyte.playkeyboard)에서 확인하실 수 있습니다.
 
-### 조이패스 JoyPass (유니언플레이스, 외주)
+### 조이패스 JoyPass (유니언플레이스, 외주) 
 - 소개: Joyland 카페 멤버 관리 & 영어학원 형식의 튜터링 서비스
-- 기간: 2018.06 ~ 작업중
+- 기간: 2018.06 ~ 2019.03
 - 역할: 사용자용 / 관리자용 / POS Tablet Android Application 개발, API 설계
 - 관련 기술 : Kotlin, DataBinding, MediaPlayer, Glide, Retrofit
 
