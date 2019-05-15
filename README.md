@@ -14,9 +14,11 @@
 - RocketPunch: [rocketpunch.com/@buddman](https://rocketpunch.com/@buddman)
 
 ## 회사경력
-- [BITBYTE](https://www.rocketpunch.com/companies/bitbyte) Android Developer (2018.03 ~ 2018.05)
-- Freelancer (2018.05 ~ 2018.09)
 - [freeWheelin](https://www.rocketpunch.com/companies/freewheelin) Software Engineer (2018.10 ~ 재직중)
+- Freelancer (2018.05 ~ 2018.09)
+- [BITBYTE](https://www.rocketpunch.com/companies/bitbyte) Android Developer (2018.03 ~ 2018.05)
+
+
 
 ## 단체경력
 - 선린인터넷고등학교 IT영재교육원 멘토단 대표 (2017 ~ 2017)
