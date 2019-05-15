@@ -4,7 +4,7 @@
 <img src="https://github.com/buddman1208/AboutMe/blob/master/aboutme_profile.png" width="138" height="212"/>
 
 - 이름: 오준석
-- 군필여부: 복무 전 (4급 사회복무요원, 병역특례 희망)
+- 군필여부: 복무 전 (4급, 병역특례 희망)
 
 항상 끊임없는 팀원과의 소통을 통해 완벽한 서비스를 만들기 위해 노력하는 개발자, 오준석입니다.<br>수학 에듀테크 기업인 [freeWheelin](https://www.rocketpunch.com/companies/freewheelin)에서 안드로이드 개발자로 재직하고 있습니다.
 
@@ -16,7 +16,7 @@
 ## 회사경력
 - [BITBYTE](https://www.rocketpunch.com/companies/bitbyte) Android Developer (2018.03 ~ 2018.05)
 - Freelancer (2018.05 ~ 2018.09)
-- [freeWheelin](https://www.rocketpunch.com/companies/freewheelin) Software Engineer (2018.10 ~ )
+- [freeWheelin](https://www.rocketpunch.com/companies/freewheelin) Software Engineer (2018.10 ~ 재직중)
 
 ## 단체경력
 - 선린인터넷고등학교 IT영재교육원 멘토단 대표 (2017 ~ 2017)
@@ -30,11 +30,11 @@
 ## 사용 기술
 ### Android
 - Kotlin, Java 
-- RxJava, RxKotlin, Kotlin Coroutines
+- RxKotlin, RxJava
 - DataBinding, Realm Database
 - 기타 : Glide, LastAdapter, Retrofit, Firebase, BluetoothSPP, Bluetooth Beacon, Facebook/Twitter SNS, Iamport
 
-### Server
+### Backend
 - PHP
 - Node.js
 - Express
@@ -52,6 +52,7 @@
 - Android Testcode
 
 ## 수상 이력
+- JunctionX Seoul 2019 Zepeto Render API Track 1위 (JunctionX Seoul 주최)
 - SK Smarteen App Challenge 생활부문 대상 (산업통상자원부 장관상)
 - 제 3회 대한민국 SW융합 해카톤대회 대상 (미래창조과학부 장관상)
 - 삼성 투머로우 솔루션 IDEA부문 최우수상 (삼성전자 사장상)
@@ -79,7 +80,7 @@
 
 - 소개 : 수학 교육과 학원 관리 전반에 대한 스마트 솔루션 시스템을 제공하는 수학문제은행 서비스입니다. 맞춤 학습지와 자체 교재 제작, 오답 관리, 빅데이터 기술을 활용한 Report 생성, 학원 전용 App까지 제공하고 있습니다.
 - 기간 : 2018.10 ~ (진행 중)
-- 직무 : '매쓰플랫 선생님', '매쓰플랫 학부모 / 학생용', '매쓰플랫 출석앱' 유지보수 및 신규기능 개발, 버전관리 및 배포
+- 직무 : '매쓰플랫 선생님 (태블릿용)', '매쓰플랫 학부모 / 학생용 (모바일)', '매쓰플랫 출석앱 (태블릿/모바일)' 유지보수 및 신규기능 개발, 버전관리 및 프로덕트 배포, 오류 모니터링 및 기술지원
 - 관련기술 : Kotlin, Java, RxJava, Retrofit, Node.js, PHP, Spring, Etc..
 - 자세한 설명은 [프리윌린 로켓펀치](https://www.rocketpunch.com/companies/freewheelin)에 있습니다.
 
@@ -93,6 +94,13 @@
 - 관련기술: Kotlin, DataBinding, Glide, Retrofit, Firebase Analytics, Typekit, Anko 
 - 자세한 설명은 [비트바이트 로켓펀치](https://www.rocketpunch.com/companies/bitbyte)에 있습니다.
 - [Play 스토어](https://play.google.com/store/apps/details?id=kr.bitbyte.playkeyboard)에서 확인하실 수 있습니다.
+
+### 제페스팟 ZEPESPOT (오이냉국 팀 프로젝트, JunctionX Seoul 2019 해커톤)
+- 소개: 'ZEPESPOT'은 기존에 제페토 서비스에 존재하던 제페토 월드에서 온라인으로만 이루어지던 행동들을 실제 세계에 접목하고, 스토리성을 추가했습니다. 사용자들이 지정된 코스들을 돌면서 일명 '성지순례'를 하면서 각 코스에 있는 스팟에서 실제 사진을 찍고, 그 위에 각 스팟에 지정된 연예인 제페토와 자신의 제페토의 듀얼샷을 합성하여 갤러리에 저장하고, 자체 및 외부 커뮤니티에 공유하며 서로 소통하는 구조를 가지고 있습니다.
+- 기간: 2019.05
+- 역할: 안드로이드 클라이언트 개발, ZEPETO Render API 연동, 서비스 방향 제시
+- 관련 기술 : Kotlin, DataBinding, Fresco, Retrofit, Google Maps, Location, Typekit
+- 서비스 소스코드는 [여기서](https://github.com/ZEPESPOT/), 서비스 소개 PPT는 [여기서](https://github.com/ZEPESPOT/Design/blob/master/Document/ZEPESPOT.pdf) 열람하실 수 있습니다.
 
 ### 조이패스 JoyPass (유니언플레이스, 외주) 
 - 소개: Joyland 카페 멤버 관리 & 영어학원 형식의 튜터링 서비스
@@ -177,8 +185,7 @@
 - **[외주]** 오늘의 옷장 : 자신이 가진 옷을 카테고리에 맞게 등록하고 날씨 정보를 가져와 날씨에 맞는 옷을 추천해주는 어플리케이션입니다.
 - **[개인]** 선린인터넷고등학교 멀티미디어과 2017 졸업전시회 어플리케이선 : 졸업전시회 작품들을 모바일에서 열람할수 있는 어플리케이션입니다.
 
-* 거의 대부분의 프로젝트는 [여기에](https://github.com/buddman1208/Portfolio2017/blob/master/worklog.md) 정리되어 있습니다.<br>
-
+* 명시하지 않은 이전 일부 프로젝트는 [여기에](https://github.com/buddman1208/Portfolio2017/blob/master/worklog.md) 정리되어 있습니다.<br>
 ----
 여기까지 읽어주셔서 감사합니다. 
 더 궁금하신 내용이 있다면 buddman1208@gmail.com으로 연락주세요.
