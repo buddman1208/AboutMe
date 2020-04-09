@@ -1,7 +1,7 @@
 # AboutMe
 ## 소개
 
-- 이름: 오준석
+- 이름: 오준석<br>
 항상 끊임없는 팀원과의 소통을 통해 완벽한 서비스를 만들기 위해 노력하는 개발자, 오준석입니다.<br>
 수학 에듀테크 기업인 [freeWheelin](https://www.rocketpunch.com/companies/freewheelin)에서 소프트웨어 개발자로 재직하고 있습니다.
 주로 안드로이드 부분을 개발하고 있으며, 필요 시 백엔드 (Spring, AWS Lambda, PHP) 개발도 진행하고 있습니다.
