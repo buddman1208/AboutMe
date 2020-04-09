@@ -115,12 +115,21 @@
 - 기간: 2018.06 ~ 2019.03
 - 역할: 사용자용 / 관리자용 / POS Tablet Android Application 개발, API 설계
 - 관련 기술 : Kotlin, DataBinding, MediaPlayer, Glide, Retrofit
+- [Play 스토어](https://play.google.com/store/apps/details?id=com.unionplace.members) 에서 확인하실 수 있습니다.
+
+### 유니언멤버스 UnionMembers (프리랜서, 주식회사 유니언플레이스)
+- 소개: 주식회사 유니언플레이스 자체 브랜드 멤버십 어플리케이션 제작
+- 기간: 2019.06 ~ 2019.10
+- 역할: Project Manager, 사용자용 Android Application 개발
+- 관련 기술 : Kotlin, DataBinding, Glide, Retrofit, Etc
+- [Play 스토어](https://play.google.com/store/apps/details?id=com.joylandcafe.joypass) 에서 확인하실 수 있습니다.
 
 ### 허니돌프 HoneyDolf (산타브라더스, 외주)
 - 소개: 산타브라더스 "허니돌프" 피규어 컬렉션 및 구매 서비스
 - 기간: 2018.04 ~ 작업중
 - 역할: 사용자용 Android Application 개발, API 설계
 - 관련 기술: Kotlin, DataBinding, Glide, Animation, Iamport
+- [Play 스토어](https://play.google.com/store/apps/details?id=com.santabrothers.honeydolf) 에서 확인하실 수 있습니다.
 
 ### 세이푸드 Safood (팀 프로젝트, 2016 삼성 주니어 소프트웨어 창작대회 고등부 본선진출)
 - 소개 : 식품 일부 성분에 알레르기를 가지고 있는 환자, 혹은 특정 성분의 음식을 먹지 못하는 종교인을 위한 식품첨가물 필터링 어플리케이션입니다.<br>
