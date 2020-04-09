@@ -96,7 +96,7 @@
 #### 안드로이드 어플리케이션 및 백엔드 개발, 고객관리 및 CS
 <img src="https://lh3.googleusercontent.com/n0RZ8WVAZ20uXJ5qagNJJkc1yq3jbM8rBSKHyQvkGL7HsTQtLY8BONog2ngYbI-NMss=s180-rw" width="60" height="60"/>
 
-- 소개: 약 8만명이 사용하는 안드로이드 3rd-party 키보드 어플리케이션입니다.<br>키보드 배경에서 입력 단어에 따라 반응하는 라이브테마, 상용구, 클립보드, 이모지 등을 지원합니다. 
+- 소개: 약 100만명이 사용하는 안드로이드 3rd-party 키보드 어플리케이션입니다.<br>키보드 배경에서 입력 단어에 따라 반응하는 라이브테마, 상용구, 클립보드, 이모지 등을 지원합니다. 
 - 기간: 2018.03 ~ 2018.05
 - 역할: 어플리케이션 리팩토링 (100%), 키보드 신규기능 개발, 이슈 모니터링
 - 관련기술: Kotlin, DataBinding, Glide, Retrofit, Firebase Analytics, Typekit, Anko 
