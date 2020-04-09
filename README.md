@@ -1,12 +1,10 @@
 # AboutMe
 ## 소개
 
-<img src="https://github.com/buddman1208/AboutMe/blob/master/aboutme_profile.png" width="138" height="212"/>
-
 - 이름: 오준석
-- 군필여부: 복무 전 (4급, 병역특례 희망)
-
-항상 끊임없는 팀원과의 소통을 통해 완벽한 서비스를 만들기 위해 노력하는 개발자, 오준석입니다.<br>수학 에듀테크 기업인 [freeWheelin](https://www.rocketpunch.com/companies/freewheelin)에서 안드로이드 개발자로 재직하고 있습니다.
+항상 끊임없는 팀원과의 소통을 통해 완벽한 서비스를 만들기 위해 노력하는 개발자, 오준석입니다.<br>
+수학 에듀테크 기업인 [freeWheelin](https://www.rocketpunch.com/companies/freewheelin)에서 소프트웨어 개발자로 재직하고 있습니다.
+주로 안드로이드 부분을 개발하고 있으며, 필요 시 백엔드 (Spring, AWS Lambda, PHP) 개발도 진행하고 있습니다.
 
 - 취미: 영화 / 드라마 감상, **해커톤**, **각코 (각자코딩)**, 여행
 - Email: buddman1208@gmail.com
@@ -18,8 +16,6 @@
 - Freelancer (2018.05 ~ 2018.09)
 - [BITBYTE](https://www.rocketpunch.com/companies/bitbyte) Android Developer (2018.03 ~ 2018.05)
 
-
-
 ## 단체경력
 - 선린인터넷고등학교 IT영재교육원 멘토단 대표 (2017 ~ 2017)
 - 선린인터넷고등학교 실전 프로젝트 동아리 Geek (2016 ~ 2017)
@@ -30,13 +26,22 @@
 - 선린인터넷고등학교 소프트웨어과 (구 웹운영과) 졸업 (2015 ~ 2017)
 
 ## 사용 기술
-### Android
-- Kotlin, Java 
-- RxKotlin, RxJava
-- DataBinding, Realm Database
-- 기타 : Glide, LastAdapter, Retrofit, Firebase, BluetoothSPP, Bluetooth Beacon, Facebook/Twitter SNS, Iamport
+### Android (6년차)
+> Kotlin / Java을 이용해 Android 어플리케이션을 개발하고 있습니다.<br>
+> Kotlin의 효율성과 편리함에 매력을 느껴 신규 프로젝트는 전부 Kotlin으로 개발하고 있으며, Java -> Kotlin 프로젝트 마이그레이션도 여럿 진행한 경험이 있습니다.<br>
+> RxJava2, RxKotlin을 이용해 Observable 기반 개발을 진행하고 있습니다.<br>
 
-### Backend
+*개발 스택 :*
+- DataBinding 사용 중
+- Glide, Fresco
+- Retrofit
+- RxKotlin, RxJava
+- Realm Database
+- LastAdapter, Recyclical
+- Firebase, Fabric
+- BluetoothSPP, Bluetooth Beacon, Facebook/Twitter/Kakao SNS API
+
+### Backend (2년차)
 - PHP
 - Node.js
 - Express
@@ -77,14 +82,15 @@
 ## 프로젝트 이력
 
 ### 매쓰플랫 mathFLAT (프리윌린) 
-#### 안드로이드 어플리케이션 및 백엔드 개발
+#### 안드로이드 개발, 백엔드 개발
+
 <img src="https://avatars0.githubusercontent.com/u/38304554?s=200&v=4" width="60" height="60"/>
 
 - 소개 : 수학 교육과 학원 관리 전반에 대한 스마트 솔루션 시스템을 제공하는 수학문제은행 서비스입니다. 맞춤 학습지와 자체 교재 제작, 오답 관리, 빅데이터 기술을 활용한 Report 생성, 학원 전용 App까지 제공하고 있습니다.
 - 기간 : 2018.10 ~ (진행 중)
 - 직무 : '매쓰플랫 선생님 (태블릿용)', '매쓰플랫 학부모 / 학생용 (모바일)', '매쓰플랫 출석앱 (태블릿/모바일)' 유지보수 및 신규기능 개발, 버전관리 및 프로덕트 배포, 오류 모니터링 및 기술지원
 - 관련기술 : Kotlin, Java, RxJava, Retrofit, Node.js, PHP, Spring, Etc..
-- 자세한 설명은 [프리윌린 로켓펀치](https://www.rocketpunch.com/companies/freewheelin)에 있습니다.
+- 자세한 설명은 [매쓰플랫 홈페이지](https://mathflat.com/), [프리윌린 로켓펀치](https://www.rocketpunch.com/companies/freewheelin)에 있습니다.
 
 ### 플레이키보드 PlayKeyboard (비트바이트)
 #### 안드로이드 어플리케이션 및 백엔드 개발, 고객관리 및 CS
